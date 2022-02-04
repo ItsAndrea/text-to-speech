@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyect</title>
+</head>
+
+<body>
+    <h1>Responsive Voice</h1>
+    <input type="text" placeholder="Text to be spoken">
+    <button>Speak</button>
+    <!--The Javascript-->
+    <script>
+        document.querySelector("button").addEventListener("click", e => {
+            responsiveVoice.speak(document.querySelector("input").value);
+        })
+    </script>
+    <!--The styles-->
+    <style>
+        body {
+            background: #181927;
+        }
+        
+        body * {
+            font-family: sans-serif;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-top: 80px;
+            color: #00f5d4;
+        }
+        
+        input {
+            position: absolute;
+            margin: auto;
+            height: 50px;
+            width: 90%;
+            max-width: 30pc;
+            right: 0;
+            left: 0;
+            top: 0;
+            bottom: 50px;
+            background: #1F2134;
+            outline: none;
+            border: 0;
+            padding: 10px 20px;
+            border-radius: 7px;
+            font-size: 20px;
+            color: #00f5d4;
+        }
+        
+        input::placeholder {
+            color: rgb(0, 245, 212);
+        }
+        
+        button {
+            font-size: 20px;
+            padding: 10px 20px;
+            border-radius: 7px;
+            height: 50px;
+            width: 140px;
+            position: absolute;
+            left: 700px;
+            bottom: 250px;
+            color: #1F2134;
+            background: #00f5d4;
+            cursor: pointer;
+        }
+    </style>
+    <script src="https://code.responsivevoice.org/responsivevoice.js?key=oFZDixkY"></script>
+</body>
+
+</html>
