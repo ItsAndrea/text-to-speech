@@ -54,5 +54,3 @@ ____
 # Authors-and-acknowledgment
 
 * Me 😊
-
-____
