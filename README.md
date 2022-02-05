@@ -32,17 +32,13 @@ ___
 # Technology
 
 * **Javascript** - Interactivity
-* **Css** - Styling
+* **CSS** - Styling
 * **HTML** - Layout
 
 ____
 
 # Screenshot
-
-Home Page         |  Flip Page
-:-------------------------:|:-------------------------:
-![](assets/screenshot.png)  |  ![](assets/screenshot1.png)
-
+![screenshot](https://user-images.githubusercontent.com/85640313/152619782-7a6ee335-af8e-471b-8f81-0b4179ed8d87.jpg)
 ____
 
 # Roadmap
