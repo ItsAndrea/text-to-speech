@@ -37,7 +37,7 @@ ___
 
 ____
 
-# Screenshots
+# Screenshot
 
 Home Page         |  Flip Page
 :-------------------------:|:-------------------------:
