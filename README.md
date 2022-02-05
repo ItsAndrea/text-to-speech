@@ -12,10 +12,8 @@
 * [Technology](#Technology) ⚙️
 * [Screenshots](#Screenshots) 📱
 * [Instalation](#Instalation) 🧩
-* [Support](#Support) 🆘
 * [Roadmap](#Roadmap) 🗺️
 * [Authors and acknowledgment](#Authors-and-acknowledgment) ✍️
-* [Project Status](#Project-Status) 📜
 
 # Name
 
@@ -52,30 +50,14 @@ ____
 
 ___
 
-# Support
-
-Have any question or find something that doesn't look good? Let's talk 😊
-
-[Here](https://github.com/mugas)
-
-[And Here](https://www.ricardomoreira.io/about)
-
-____
-
 # Roadmap
 
-Nothing to add
+There´s no roadmap this time 
 
 ____
 
 # Authors-and-acknowledgment
 
 * Me 😊
-
-____
-
-# Project-Status  
-
-Nothing to add
 
 ____
