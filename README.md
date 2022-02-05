@@ -11,7 +11,6 @@
 * [Description](#Description) 📖
 * [Technology](#Technology) ⚙️
 * [Screenshots](#Screenshots) 📱
-* [Instalation](#Instalation) 🧩
 * [Roadmap](#Roadmap) 🗺️
 * [Authors and acknowledgment](#Authors-and-acknowledgment) ✍️
 
@@ -32,7 +31,7 @@ ___
 
 # Technology
 
-* **Javascript** - Language
+* **Javascript** - Interactivity
 * **Css** - Styling
 * **HTML** - Layout
 
@@ -45,10 +44,6 @@ Home Page         |  Flip Page
 ![](assets/screenshot.png)  |  ![](assets/screenshot1.png)
 
 ____
-
-# Instalation
-
-___
 
 # Roadmap
 
