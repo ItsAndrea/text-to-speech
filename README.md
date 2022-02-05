@@ -1,36 +1,34 @@
 [![Social banner for mugas](./assets/Flipcards_banner.png)](http://ricardomoreira.io/)
 
-<h1 align="center"> 🔥Flip Cards🔥</h1>
+<h1 align="center"> 🔥Text to speech🔥</h1>
 
-<h2 align="center"> A Music Album page to learn how to flip a card in Javascript </h2>
+<h2 align="center"> Make your computer say anything by entering just text </h2>
 
 ### Index
 
 * [Name](#Name) 👈
 * [Links](#Links) 🔗
 * [Description](#Description) 📖
-* [Languages and Frameworks](####Languages-and-Frameworks) ⚙️
+* [Languages and Frameworks](#Languages-and-Frameworks) ⚙️
 * [Screenshots](#Screenshots) 📱
 * [Instalation](#Instalation) 🧩
 * [Support](#Support) 🆘
 * [Roadmap](#Roadmap) 🗺️
-* [Authors and acknowledgment](####Authors-and-acknowledgment) ✍️
+* [Authors and acknowledgment](#Authors-and-acknowledgment) ✍️
 * [Project Status](#Project-Status) 📜
 
 # Name
 
-Flip Card
+Responsive Voice
 
 # Links
 
-[Website](https://goodstuffmusicalbum.netlify.app/)
-
-[Presentation](https://www.ricardomoreira.io/blog/2020-06-15-flip-cards-with-javascript/)
+[Website](https://responsivevoice.netlify.app/)
 ___
 
 # Description
 
-A Page with Album covers that when pressed is fliped/turned and show the other side of the card with more info
+Make your machine say what you want by entering a comment and then let the button do the magic.
 
 ___
 
@@ -38,6 +36,7 @@ ___
 
 * **Javascript** - Language
 * **Css** - Styling
+* * **HTML** - Layout
 
 ____
 
