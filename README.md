@@ -1,4 +1,5 @@
-[![Social banner for mugas](./assets/Flipcards_banner.png)](http://ricardomoreira.io/)
+
+
 
 <h1 align="center"> 🔥Text to speech🔥</h1>
 
