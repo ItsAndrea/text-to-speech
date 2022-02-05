@@ -9,7 +9,7 @@
 * [Name](#Name) 👈
 * [Links](#Links) 🔗
 * [Description](#Description) 📖
-* [Languages and Frameworks](#Languages-and-Frameworks) ⚙️
+* [Technology](#Technology) ⚙️
 * [Screenshots](#Screenshots) 📱
 * [Instalation](#Instalation) 🧩
 * [Support](#Support) 🆘
@@ -32,11 +32,11 @@ Make your machine say what you want by entering a comment and then let the butto
 
 ___
 
-# Languages, Frameworks and others
+# Technology
 
 * **Javascript** - Language
 * **Css** - Styling
-* * **HTML** - Layout
+* **HTML** - Layout
 
 ____
 
